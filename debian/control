@@ -1,0 +1,13 @@
+Source: sakai-tomcat
+Section: unknown
+Priority: extra
+Maintainer: Adrian Fish <a.fish@lancaster.ac.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: sakai-tomcat
+Architecture: all
+Depends: openjdk-7-jdk
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

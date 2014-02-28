@@ -1,0 +1,5 @@
+sakai-tomcat (7.0.52-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Adrian Fish <a.fish@lancaster.ac.uk>  Fri, 28 Feb 2014 15:06:39 +0000
